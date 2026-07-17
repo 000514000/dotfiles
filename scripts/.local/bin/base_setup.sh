@@ -56,11 +56,8 @@ command -v repomix > /dev/null || sudo npm install -g repomix
 	&& echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \
 	&& sudo apt update \
 	&& sudo apt install gh -y
-
-# zz
-mkdir -p ~/.local/bin
-command -v zz > /dev/null || wget -O ~/.local/bin/zz https://github.com/TSK-io/zz_translator/releases/download/v0.1.4/zz
-chmod +x ~/.local/bin/zz
+git config --global user.email "free514dom@proton.me"
+git config --global user.name "000514000"
 
 # caln
 command -v caln > /dev/null || { wget -O /tmp/caln.deb "https://github.com/free514dom/calendar-cli/releases/download/v0.1.9/caln_0.1.9_amd64.deb" && sudo apt install -y /tmp/caln.deb && rm /tmp/caln.deb; }
