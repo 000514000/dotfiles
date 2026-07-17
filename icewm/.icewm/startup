@@ -1,0 +1,4 @@
+#!/bin/sh
+
+(sleep 2; setxkbmap -option ctrl:nocaps) &
+(sleep 2; wpctl set-volume -l 1.0 @DEFAULT_AUDIO_SINK@ 0.25) &

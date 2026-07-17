@@ -1,0 +1,4 @@
+# Personal IceWM theme overrides.
+
+# Hide IceWM title bars globally, regardless of the selected theme.
+TitleBarHeight=0

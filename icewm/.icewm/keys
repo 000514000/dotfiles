@@ -1,0 +1,13 @@
+key "Super+w"  		    icesh -f close
+key "Super+Return"          env GLFW_IM_MODULE=ibus kitty --start-as fullscreen
+key "Super+space"           rofi -show drun -show-icons
+key "Super+e"               pcmanfm 
+key "Super+c"               flameshot gui -c -s 
+key "Super+z"       	    /bin/sh -c 'flameshot full -c && xdg-open "https://translate.google.com/?sl=auto&tl=zh-CN&op=images"' 
+key "Super+comma"           flameshot gui
+key "Super+period"          flameshot gui --pin -s
+
+switchkey "Super+p"         icewm-menu-xrandr
+key "XF86AudioLowerVolume"  wpctl set-volume -l 1.0 @DEFAULT_AUDIO_SINK@ 5%-
+key "XF86AudioRaiseVolume"  wpctl set-volume -l 1.0 @DEFAULT_AUDIO_SINK@ 5%+
+key "XF86AudioMute"         wpctl set-mute   @DEFAULT_AUDIO_SINK@ toggle

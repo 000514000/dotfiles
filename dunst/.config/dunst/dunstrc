@@ -1,0 +1,13 @@
+[global]
+    # 自动换行——核心修复:长行铺成多行,不再被 "…" 截断
+    word_wrap = yes
+
+    width  = (250, 480)
+    height = (0, 420)
+
+    font = Noto Sans 9
+    line_height = 1
+
+    # 标题加粗、正文换行另起(其实就是默认值,这里写明意图)
+    markup = full
+    format = "<b>%s</b>\n%b"

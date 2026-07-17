@@ -1,0 +1,4 @@
+# Personal IceWM window options.
+
+# Open Alacritty terminal windows in fullscreen mode.
+Alacritty.startFullscreen: 1
