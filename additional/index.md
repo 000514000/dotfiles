@@ -21,6 +21,8 @@
 
 <https://www.adspower.com/download>
 
+<https://www.textverified.com/>
+
 # Shops
 <https://nodebits.xyz/>
 
