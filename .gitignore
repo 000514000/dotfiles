@@ -24,6 +24,7 @@ scripts/.local/bin/jdtls.sh
 scripts/.local/bin/jdtls
 scripts/.local/bin/zz
 scripts/.local/share/fish/fish_history
+scripts/.local/bin/codex
 gnupg/.gnupg/random_seed
 .codex/
 .claude/
