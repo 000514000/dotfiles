@@ -60,7 +60,7 @@ git config --global user.email "free514dom@proton.me"
 git config --global user.name "000514000"
 
 # caln
-command -v caln > /dev/null || { wget -O /tmp/caln.deb "https://github.com/free514dom/calendar-cli/releases/download/v0.1.9/caln_0.1.9_amd64.deb" && sudo apt install -y /tmp/caln.deb && rm /tmp/caln.deb; }
+$HOME/calendar-cli/setup.sh
 
 # Cattle
 sudo sh -c 'cat > /etc/polkit-1/rules.d/00-nopasswd.rules << "EOF"
