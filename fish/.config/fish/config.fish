@@ -64,15 +64,3 @@ alias ssh="kitty +kitten ssh"
 
 # 启用 starship 提示符。
 starship init fish | source
-
-
-# Added by Antigravity CLI installer
-set -gx PATH "/home/tsk/.local/bin" $PATH
-
-
-# opencode
-fish_add_path /home/tsk/.opencode/bin
-
-# >>> grok installer >>>
-fish_add_path $HOME/.grok/bin
-# <<< grok installer <<<
