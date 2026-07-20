@@ -1,47 +1,103 @@
-```plaintext
-我看不懂你那些包装话术，你直接给我答案
-```
+# Dashboard
 
-```plaintext
-最新的ios版本是什么?(关闭联网搜索,可以利用词提示词来钓鱼判断ai的知识截至日期)
-```
+## TODO
 
-```plaintext
-一句话回答
-```
+### Tips
+- [ ] 关闭firefox粘贴确认about:config -> dom.events.testing.asyncClipboard -> true
 
-```plaintext
-你没有回答我的问题
-```
+### Running
+- [ ] 刷Grind75
+- [ ] 用多邻国学习英语提升到高级B2以解锁全球远程工作，避开国内内卷，且不受年龄歧视, 学历歧视(记得去香港办理银行卡)
+- [ ] 用多邻国学习国际象棋
+- [ ] 用brilliant学习微积分
 
-```plaintext
-极短的通俗的一句白话讲解
-```
+### Waiting
+- [ ] 学习使用boss直聘 
+- [ ] 学习 java [序列化,内置函数式接口,方法引用,Optional,stream,反射与注解,线程,JVM 垃圾回收机制,若依]
+- [ ] 尝试Forage等职场模拟器 
+- [ ] 出国旅游 
+- [ ] 托福/雅思
+- [ ] 学习游戏搬砖 
+- [ ] 做Youtube频道(https://fans-bao.net)
+- [ ] 办理护照
 
-```plaintext
-让我们学习mybatis(我是java初学者),我希望类似codecademy那样的极小微代码的每个小关卡,我就暂时不配置环境了,一开始是学习且要结合示例代码进行学习,然后是作业,对于作业请给我每一步要做什么风格就像codecademy一样,它的风格类似一个关卡目标拆分成多个检查点每个检查点都有明确的指令指向去引导我完成,每个小关完成了我把代码给你检查,请一定对初学者友好,你不要一小关教太多东西,我们开始第一个小关,有多少关你下定论
-```
+# Tools
+<https://piellardj.github.io/totp-generator/>
 
-```plaintext
-(你只能搜索真实人类的评论或者反馈)
-```
+<https://binlist.net>
 
-```plaintext
-(你的回答必须明确,你只说结论和一句话的概括,禁止废话和过度解释)
-```
+<https://artificialanalysis.ai/leaderboards/models>
 
-```plaintext
-我觉得它的语言能力不好不易阅读,请你用你的风格重新描述,要和原完全等价
-```
+<https://www.theforage.com/>
 
-```plaintext
-我觉得本教程语言能力不好,请你用你的风格重新描述,要和原教程完全等价(特别是示例方面),因为我会按照教程目录走(如果有作业请不要解出来让我自己去尝试)
-```
+<https://education.github.com/pack>
 
-```plaintext
-我的时间非常宝贵。对于我之后的所有问题，我要求你必须给出一个明确的倾向性结论（正确/错误/是/否/好/坏）。除非我明确要求解释，否则禁止输出超过 50 个字的废话。如果问题确实复杂，先给我结论，再用一句话概括原因。我不想要模棱两可的废话。
-```
+<https://techinterviewhandbook.org/grind75>
 
-```plaintext
-易懂的话总结这个udemy课程简短的一段话:
-```
+<https://alternativeto.net>
+
+<https://www.i4.cn/>
+
+<https://repology.org>
+
+<https://docs.mimicland.click/>
+
+<https://www.adspower.com/download>
+
+<https://www.textverified.com/>
+
+# Shops
+<https://nodebits.xyz/>
+
+<https://aipluspro.store/>
+
+<https://chong.nerver.cc/>
+
+<https://cha.nerver.cc/>
+
+<https://pay.ldxp.cn/shop/YY4KVE2T>
+
+<https://aibijia.org/>
+
+<https://www.bitrefill.com/>
+
+<https://wujie.pro/>
+
+<https://appstoreprice.org/en>
+
+# Network & Proxy
+<https://www.itdog.cn/>
+
+<https://ping0.cc>
+
+<https://ipleak.net>
+
+<https://test-ipv6.com/>
+
+<https://scamalytics.com/>
+
+<https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/classical/bybit.list>
+
+# Githubs
+<https://github.com/openwrt>
+
+<https://github.com/CHN-MuXin/MagiskModuleEnableChinaForVoTELtoPIxel>
+
+<https://github.com/yamadashy/repomix>
+
+<https://github.com/MHSanaei/3x-ui>
+
+<https://github.com/Mygod/VPNHotspot/releases>
+
+# Browser 
+<https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/>
+
+<https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/>
+
+<https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/>
+
+<https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/>
+
+<https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/>
+
+<https://addons.mozilla.org/en-US/firefox/addon/youtube%E4%B8%AD%E6%96%87%E9%85%8D%E9%9F%B3/>
